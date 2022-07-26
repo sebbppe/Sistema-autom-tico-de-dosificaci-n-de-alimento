@@ -1,2 +1,2 @@
-# Sistema-autom-tico-de-dosificaci-n-de-alimento
-En el siguiente repositorio se encontrará el desarrollo de mi trabajo de grado como ingeniero mecatrónico, este proyecto se centró en elaborar un comedor automático para vacas lecheras donde los productores pudiesen monitorear su ganado mediante una página web, por lo tanto, esta es una aplicación del internet de las cosas y los sistemas automáticos.
+# Sistema automático de dosificación de alimento
+En el siguiente repositorio se encontrará el desarrollo de mi trabajo de grado como ingeniero mecatrónico, este proyecto se centró en elaborar un comedor automático para vacas lecheras donde los productores pudiesen monitorear su ganado mediante una página web, por lo tanto, esta es una aplicación enfocada en el internet de las cosas y los sistemas automáticos.
